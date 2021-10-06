@@ -57,16 +57,16 @@ Tags for JUnit 5:
 
 assumeFalse, assumeTrue : Assumes a statement to be true/false, and if it fails it will abort tests.
 
-## Mocking Frameworks
+# Mocking Frameworks
 
-# Mockito
+## Mockito
 Clear and simple syntax.  
 Supported by Spring.  
 Static method/constructor mocking achieved when paired with powermock.  
 Low learning curve. 
 Uses proxy API design architecture. 
 
-# JMockit
+## JMockit
 Static method/constructor achieved directly in JMockit.  
 Steep learning curve.  
 Based on Java 1.5 instrumentation API framework.
